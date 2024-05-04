@@ -1,6 +1,6 @@
 # Online_Falci
 
-Firebase storage ve database kullanılarak oluşturulan eğlenceli bir fal uygulaması
+Firebase storage ve firestore database kullanılarak oluşturulan eğlenceli bir fal uygulaması
 Kullanici kayıt olurken doğrulama maili gönderilerek giriş güvenliği sağlanır.
 Shared preferences ile kullanıcının giriş çıkışları kaydedilir yani sürekli giriş yapmak zorunda kalmaz.
 
