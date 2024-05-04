@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945175033985",
+    "project_id": "online-falci",
+    "storage_bucket": "online-falci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945175033985:android:32132863a03232b94e3580",
+        "android_client_info": {
+          "package_name": "com.example.oyunn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcwo7sP1-mqQ1p_Z4SpriqciAxH57LmoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
